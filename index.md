@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to Cosmos BI blog
 
-I'm glad you are here. I plan to talk about ...
+I'm glad you are here. I will document my learning journey in the field of Business Intelligence.
